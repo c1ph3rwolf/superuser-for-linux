@@ -11,8 +11,15 @@
             "id": "4febf9a363fe2ec2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Getting-Started-with-SuperUser.canvas",
+                "viewState": {
+                  "x": 280,
+                  "y": -70,
+                  "zoom": -0.7907829674112854
+                }
+              }
             }
           }
         ]
@@ -65,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 350.5
   },
   "right": {
     "id": "4b0b91507903403b",
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Getting-Started-with-SuperUser.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Getting-Started-with-SuperUser.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Getting-Started-with-SuperUser.canvas"
+              }
             }
           }
         ],
@@ -141,15 +152,16 @@
   },
   "active": "a74ee0a74e281d1a",
   "lastOpenFiles": [
+    "Welcome-SuperUser.md",
     "Superuser-ps1-mindmap.canvas",
+    "Superuser-json-mindmap.canvas",
+    "README.md",
+    "install-pyfiglet-mindmap.canvas",
+    "How-Superuser-Script-Works.canvas",
     "Getting-Started-with-SuperUser.canvas",
     "assets/screenshots/Pasted image 20240406162039.png",
     "assets/screenshots/Pasted image 20240409094221.png",
-    "How-Superuser-Script-Works.canvas",
-    "install-pyfiglet-mindmap.canvas",
-    "Superuser-json-mindmap.canvas",
     "nano-text-editor-minmap.canvas",
-    "README.md",
     "assets/backup/How-Superuser-Script-Works 1.canvas",
     "assets/screenshots/Pasted image 20240408135519.png",
     "assets/screenshots/Pasted image 20240408135308.png",
@@ -170,7 +182,6 @@
     "docs/execute a script from within another PowerShell script.md",
     "docs/launch-environment-variable.md",
     "docs/read-file-and-display-it-as-table.md",
-    "docs/terminal-settings-json.md",
-    "Welcome-SuperUser.md"
+    "docs/terminal-settings-json.md"
   ]
 }
